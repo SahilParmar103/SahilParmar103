@@ -1,4 +1,4 @@
-[![MasterHead](https://images2.alphacoders.com/137/thumb-1920-1372963.png)]
+![MasterHead](https://images2.alphacoders.com/137/thumb-1920-1372963.png)
 <h1 align="center">Hi 👋, I'm Sahil Parmar</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
