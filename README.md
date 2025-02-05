@@ -1,7 +1,7 @@
 [![MasterHead](https://images2.alphacoders.com/137/thumb-1920-1372963.png)]
 <h1 align="center">Hi 👋, I'm Sahil Parmar</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilparmar&label=Profile%20views&color=0e75b6&style=flat" alt="sahilparmar" /> </p>
 
